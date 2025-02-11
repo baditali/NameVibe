@@ -25,7 +25,7 @@
 - JavaScript  
 
 ## 🎭 Screenshots
-![Preview](https://i.imgur.com/glow.png)  <!-- Replace with actual image link -->
+![Preview](https://i.imgur.com/Screenshot_20250211-213828.png)  <!-- Replace with actual image link -->
 
 ---
 
