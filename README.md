@@ -1,6 +1,6 @@
 # 🌟 NameVibe – Glowing Name Generator 🌟
 
-🚀 **Live Demo**: https://baditali/NameVibe)
+🚀 **Live Demo**: https://baditali.github.io/NameVibe/
 
 ## 📌 About
 **NameVibe** generates a **stunning glowing animation** for any name you enter!  
@@ -30,4 +30,4 @@
 ---
 
 🔗 **Created by [Basit Ali](https://github.com/baditali)**  
-🌍 **View Project**: [GitHub Pages Link](https://basitali.github.io/NameVibe/)
+🌍 **View Project**: [GitHub Pages Link](https://baditali.github.io/NameVibe/)
